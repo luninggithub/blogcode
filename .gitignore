@@ -8,3 +8,6 @@ gradlew.bat
 local.properties
 app/app.iml
 *.iml
+.DS_Store
+/build
+/captures
